@@ -14,7 +14,8 @@ This project focuses on building a **scalable, cloud-based data pipeline** to in
 - **Real-Time Analytics Dashboard** – Amazon QuickSight provides rich BI visualizations.  
 
 ## 🏗️ Architecture  
-The architecture is designed to be **serverless, highly available, and scalable**, leveraging **AWS services** to streamline data processing and analytics.  
+The architecture is designed to be **serverless, highly available, and scalable**, leveraging **AWS services** to streamline data processing and analytics.
+
 
 ### **🔹 Workflow**:  
 1. **Data Ingestion** – Extracts raw data from YouTube and other sources.  
@@ -46,3 +47,21 @@ The architecture is designed to be **serverless, highly available, and scalable*
 ```bash
 git clone https://github.com/your-username/youtube-big-data-analysis.git
 cd youtube-big-data-analysis
+```
+
+2️⃣ **Set Up AWS Services**
+
+- Create an S3 Bucket for data storage.
+- Set up AWS IAM Roles for access control.
+- Configure AWS Glue Jobs for ETL processing.
+- Deploy AWS Lambda functions for automation.
+- Enable Athena queries for data analysis.
+- Build QuickSight dashboards for reporting.
+
+## 📈 **Dashboard & Reporting**
+The project includes interactive BI dashboards built using Amazon QuickSight, providing real-time insights and trend analysis on YouTube data. I have attached a copy of the dashboard in this repository.
+
+## 🎯 **Future Enhancements**
+- Implement machine learning models for trend prediction.
+- Integrate real-time streaming for live analytics.
+- Optimize AWS Glue transformations for cost efficiency.
