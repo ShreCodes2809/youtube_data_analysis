@@ -16,6 +16,9 @@ This project focuses on building a **scalable, cloud-based data pipeline** to in
 ## 🏗️ Architecture  
 The architecture is designed to be **serverless, highly available, and scalable**, leveraging **AWS services** to streamline data processing and analytics.
 
+![Architecture](Architecture.png "Architecture Diagram")
+
+
 
 ### **🔹 Workflow**:  
 1. **Data Ingestion** – Extracts raw data from YouTube and other sources.  
