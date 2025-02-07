@@ -1,4 +1,4 @@
-# 📊 YouTube Big Data Analysis Project 🚀  
+# YouTube Big Data Analysis Project
 
 ## 🌟 Overview  
 This project focuses on building a **scalable, cloud-based data pipeline** to ingest, process, and analyze large-scale YouTube data. By leveraging **AWS services**, we ensure efficient data storage, transformation, and visualization for actionable insights.  
